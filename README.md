@@ -1,1 +1,3 @@
 # recipes
+
+This project is a simple food recipe website created using only HTML. The site showcases three recipes; Pepperoni Pizza, Scallops with Pesto Cream Sauce and Air Fried Italian Stuffed Tomatoes. During this project I grasped the principles of structuring content using HTML, such as creating and linking various webpages, organizing lists and incorporating images. Focusing on HTML alone helped me appreciate the significance of tags that are the essential structure of a webpage and how to design a site that is easy to navigate and user friendly without relying on CSS or JavaScript.
