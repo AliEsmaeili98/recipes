@@ -1,0 +1,29 @@
+/* 
+Colors:
+background: #4C5454 grey
+accent: #FF715B red
+text: #FFFFFF white
+extra: #1EA896 cyan
+extra: #523F38 brown
+
+*/
+
+body {
+    background-color: #4C5454;
+    color: #FFFFFF;
+    font-family: Arial, Verdana;
+}
+
+#page-heading {
+    text-align: center;
+    font-size: 38px;
+}
+
+.link {
+    color: #1EA896;
+}
+
+.medium-image {
+    width: 300px;
+    height: auto;
+}
