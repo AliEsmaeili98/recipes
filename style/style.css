@@ -14,6 +14,33 @@ body {
     font-family: Arial, Verdana;
 }
 
+.recipes-list {
+    background-color: #523F38;
+    padding: 20px;
+}
+
+.recipes-list-heading {
+    text-align: center;
+}
+
+.recipes-list-item {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.recipes-list-item img {
+    height: 300px;
+    width: 300px;
+}
+
+.recipes-list-item a {
+    display: block;
+}
+
+.recipes-list-item p {
+    width: 300px;
+}
+
 #page-heading {
     text-align: center;
     font-size: 38px;
